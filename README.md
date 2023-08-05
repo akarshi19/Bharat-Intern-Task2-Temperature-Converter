@@ -1,5 +1,4 @@
-# Temperature
-# Bharat-Intern-Task2-Temperature-Converter
+# Temperature-Converter
 ### Demo    
 https://akarshi19.github.io/Bharat-Intern-Task2-Temperature-Converter/
 
